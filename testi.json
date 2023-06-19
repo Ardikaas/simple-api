@@ -1,6 +1,4 @@
-{
-  "data":
-  [
+[
     {
         "id": 1,
         "image": "https://fastly.picsum.photos/id/599/200/200.jpg?hmac=2WLKs3sxIsaEQ-6WZaa6YMxgl6ZC4cNnid0aqupm2is",
@@ -36,5 +34,4 @@
         "email": "mariGar",
         "text": "I've been using this storage web service for years, and I'm extremely pleased with the experience. Along with its guaranteed security, the speed and performance of the system are exceptional. I've never had any issues accessing or managing my files."
     }
-  ]
-}
+]
