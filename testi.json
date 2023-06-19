@@ -1,0 +1,40 @@
+{
+  "data":
+  [
+    {
+        "id": 1,
+        "image": "https://fastly.picsum.photos/id/599/200/200.jpg?hmac=2WLKs3sxIsaEQ-6WZaa6YMxgl6ZC4cNnid0aqupm2is",
+        "name": " Sarah Thompson",
+        "email": "SarahT_",
+        "text": "I'm extremely satisfied with this storage web service. My important data is securely stored and privacy is well-maintained. The security system is highly reliable, and I feel confident entrusting my valuable data here."
+    },
+    {
+        "id": 2,
+        "image": "https://fastly.picsum.photos/id/1025/200/200.jpg?hmac=lPP7DRqIRSrMTmBMEg5NbVzguwqQQs2meA5kSrgLAhc",
+        "name": "John Parker",
+        "email": "Parker.",
+        "text": "This web storage provider is outstanding! Not only do they offer ample storage space, but their security system is top-notch. I never worry about data breaches. Responsive customer service is also a significant bonus."
+    },
+    {
+        "id": 3,
+        "image": "https://fastly.picsum.photos/id/634/200/200.jpg?hmac=3WUmj9wMd1h3UZICk1C5iydU5fixjx0px9jw-LBezgg",
+        "name": "Emily Rodriguez",
+        "email": "Eriguez_",
+        "text": "I've tried many storage platforms before, but this one is truly the best. Data security is their top priority, and the encryption features provide peace of mind. I feel comfortable storing personal and business files here."
+    },
+    {
+        "id": 4,
+        "image": "https://fastly.picsum.photos/id/691/200/200.jpg?hmac=vQryVYx_-QSM9WMaRjBhUI7SB8Ad1FTmG9QkaQRgHFc",
+        "name": "David Chen",
+        "email": "Mr.Chen",
+        "text": "This web storage service has been the perfect solution for my business. The robust security system and end-to-end encryption give me confidence in the safety of our data. The collaboration features are also valuable for file sharing with our team."
+    },
+    {
+        "id": 5,
+        "image": "https://fastly.picsum.photos/id/908/200/200.jpg?hmac=CovMVsq4EkU03tnOxNLyxYsLlemPPHBizxcnmaHaRcU",
+        "name": "Maria Garcia",
+        "email": "mariGar",
+        "text": "I've been using this storage web service for years, and I'm extremely pleased with the experience. Along with its guaranteed security, the speed and performance of the system are exceptional. I've never had any issues accessing or managing my files."
+    }
+  ]
+}
